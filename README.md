@@ -1,5 +1,5 @@
 # Un système bancaire
-Je prévois de développer un système bancaire central.
+Je prévois de développer un système bancaire.
  
 Le système comprendra les fonctionnalités suivantes: 
 
