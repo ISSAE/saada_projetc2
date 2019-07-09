@@ -1,0 +1,15 @@
+remote_theme: ISSAE/architect
+
+name: Saada Project C2 2019
+
+author: Saada Ibrahim
+
+author_email: saada.ibrahim@isae.edu.lb
+
+title: Saada Projet C2 2019
+google_analytics: UA-29708002-2
+
+repository: ISSAE/saada_projetc2
+
+plugins:
+- jekyll-sitemap
