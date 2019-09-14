@@ -10,7 +10,7 @@ Le système comprendra les fonctionnalités suivantes:
 Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL. 
 
 # Prérequis 
-  1. Installez Netbeans 8.0 et le lancer.  
+  1. Installez Netbeans 8.0.  
   
   2. Installez Mysql et créez une base de données avec les informations d'identification suivantes:    
      2.1 Nom de la base de données: cnam      
@@ -19,4 +19,7 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
      2.4 Port: 3306      
      
   3. Exécutez 'create_db.sql' pour créer toutes les tables et tous les procédures. 
+  
+  4. Lancez Netbeans.
+     4.1 
      
