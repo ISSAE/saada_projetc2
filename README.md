@@ -26,14 +26,13 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
      4.2 Créer un pool de connexion:  
        1. Ressources - JDBC - Pools de connexions JDBC    
        2. Pool Name: cnampool   
-       3. Nom de la classe de la source de données:  oracle.jdbc.pool.OracleDataSource
-       4. Ajouter les propriétés suivantes: 
-          DatabaseName: cnam   
-          Username/Password: root      
-          URL     
-          PortNumber: 3306        
-          
-      jdbc:oracle:thin:@localhost:1521:sample
+       3. Nom de la classe de la source de données: oracle.jdbc.pool.OracleDataSource     
+       4. Ajouter les propriétés suivantes:      
+          DatabaseName: cnam           
+          Username/Password: root           
+          URL: jdbc:oracle:thin:@localhost:3306:cnam       
+          PortNumber: 3306          
+               
       5. Créer une source de données: Ressources ; clique sur Ressources JDBC ; clique sous Nouveau.  
             Nom JNDI : jdbc/CnamPool     
             Nom du pool : CnamPool 
