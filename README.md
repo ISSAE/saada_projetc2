@@ -20,17 +20,17 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
      
   3. Exécutez 'create_db.sql' pour créer toutes les tables et tous les procédures. 
   
-  4. Lancez Netbeans.
+  4. Lancez Netbeans.    
      4.1 Démarrer le serveur Glassfish.
      4.2 Accéder à la console  http://localhost:4848 
      4.2 Créer un pool de connexion:  
        1. Ressources - JDBC - Pools de connexions JDBC    
-       2. Pool Name: cnampool   
+       2. Pool Name: CnamPool   
        3. Nom de la classe de la source de données: oracle.jdbc.pool.OracleDataSource     
        4. Ajouter les propriétés suivantes:      
-          DatabaseName: cnam           
+          DatabaseName: cnamdb           
           Username/Password: root           
-          URL: jdbc:oracle:thin:@localhost:3306:cnam       
+          URL: jdbc:mysql://localhost:3306:cnamdb       
           PortNumber: 3306          
                
       5. Créer une source de données: Ressources ; clique sur Ressources JDBC ; clique sous Nouveau.  
