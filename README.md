@@ -35,8 +35,13 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
                
       5. Créer une source de données: Ressources ; clique sur Ressources JDBC ; clique sous Nouveau.  
             Nom JNDI : jdbc/CnamPool     
-            Nom du pool : CnamPool 
-         
-    5. Enregistrez le dossier de l'application sous C:\ 
-     
-# P
+            Nom du pool : CnamPool.    
+            
+  5. Enregistrez le dossier de l'application 'CnamP2App' sous C:\.   
+  
+# Les étapes  
+  1. Lancez le project 'CnamP2App' via Netbeans.   
+  2. Faites un clic droit sur le nœud supérieur:CnamP2App.  
+  3. Cliquez: Clean and Build  
+  4. Attendez que les résultats soient terminés avec succès puis déployez l'application sur le glassfish.
+  5. 
