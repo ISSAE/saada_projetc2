@@ -51,4 +51,20 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
 
  **Login Page** <br/> 
    Comme il s’agit d’une application Web, la sécurité est la partie essentielle. Seules les personnes autorisées peuvent l'accéder.
- ![LoginPage](https://github.com/projetc22019/saada_projetc2/blob/master/login.png)
+ ![LoginPage](https://github.com/projetc22019/saada_projetc2/blob/master/login.png)  
+ 
+ **Main Page** <br/> 
+ Une fois les informations d’identification réussies, vous serez redirigé vers la page principale. 
+  ![MainPage](https://github.com/projetc22019/saada_projetc2/blob/master/MainPage.png)  
+  
+ **Customer Page** <br/> 
+ ![CustomerMainPage](https://github.com/projetc22019/saada_projetc2/blob/master/CustomerMainPage.png)  
+
+ **Customer Search Page** <br/> 
+ ![CustomerSearchPage](https://github.com/projetc22019/saada_projetc2/blob/master/CustomerSearchPage.png)   
+
+ **Add Customer Page** <br/> 
+  ![AddCustomerPage](https://github.com/projetc22019/saada_projetc2/blob/master/CustomerAddPage.png)   
+
+ **Delete Customer Page** <br/> 
+  ![DeleteCustomerPage](https://github.com/projetc22019/saada_projetc2/blob/master/CustomerDeletePage1.png)    
