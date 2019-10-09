@@ -37,7 +37,7 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
             Nom JNDI : jdbc/CnamPool     
             Nom du pool : CnamPool.    
             
-  5. Enregistrez le dossier de l'application 'CnamP2App' sous C:\.   
+  5. Enregistrez le dossier de l'application 'SaadaCnamP2' sous C:\.   
   
 # Les étapes  
   1. Lancez le project 'CnamP2App' via Netbeans.   
