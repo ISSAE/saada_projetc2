@@ -44,4 +44,11 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
   2. Faites un clic droit sur le nœud supérieur:CnamP2App.  
   3. Cliquez: Clean and Build  
   4. Attendez que les résultats soient terminés avec succès puis déployez l'application sur le glassfish.
-  5. 
+  5. Après le déploiement, vous pouvez accéder à l'application via le Web en suivant le lien ci-dessous: 
+        localhost:8080/CnamP2App/
+        
+# L'utilisation de l'application  
+
+ **Login Page** <br/> 
+   Comme il s’agit d’une application Web, la sécurité est la partie essentielle. Seules les personnes autorisées peuvent l'accéder.
+ ![Imagerealm](https://github.com/saadaibrahim/Glassfish/blob/master/glassfish_new_realm.png)
