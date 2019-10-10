@@ -59,6 +59,7 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
   ![MainPage](https://github.com/projetc22019/saada_projetc2/blob/master/MainPage.png)  
   
  **Customer Page** <br/> 
+  L'onglet Client est lié aux informations du titulaire de la carte. Toutes leurs données d'identification sont extraites de ce module.   
  
  ![CustomerMainPage](https://github.com/projetc22019/saada_projetc2/blob/master/CustomerMainPage.png)  
  
@@ -75,7 +76,9 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
   ![DeleteCustomerPage](https://github.com/projetc22019/saada_projetc2/blob/master/CustomerDeletePage1.png)   
   
   **Product Main Page** <br/> 
-  
+    Chaque carte doit être liée à un produit défini par VISA ou MASTERCARD.
+    Les 6 premiers chiffres du numéro de carte représentent un produit.  
+   
   ![ProductMainPage](https://github.com/projetc22019/saada_projetc2/blob/master/ProductMainPage.png)
   
   **Search for a Product ** <br/> 
@@ -86,4 +89,10 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
 
    ![AddProductPage](https://github.com/projetc22019/saada_projetc2/blob/master/ProductAdd.png)
    
+  # CARD MODULE  
+  
+  Un numéro de carte de crédit ou de débit est le numéro unique imprimé sur une carte de crédit ou de débit. Les six premiers   chiffres sont appelés le numéro d'identification de l'émetteur. Ils identifient l’émetteur - VISA, Mastercard ou AMEX par exemple. Les chiffres restants d'un numéro de carte de crédit sont uniques à chaque carte.    
+  
+  
+
 
