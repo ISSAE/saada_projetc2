@@ -93,6 +93,8 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
   
   Un numéro de carte de crédit ou de débit est le numéro unique imprimé sur une carte de crédit ou de débit. Les six premiers   chiffres sont appelés le numéro d'identification de l'émetteur. Ils identifient l’émetteur - VISA, Mastercard ou AMEX par exemple. Les chiffres restants d'un numéro de carte de crédit sont uniques à chaque carte.    
   
+  ![CardPage](https://github.com/projetc22019/saada_projetc2/blob/master/CardPage.png)
+  
  # Transaction Module
  
   Une transaction est l'utilisation de cartes de crédit par les clients pour acheter des biens. Le prix d'achat est envoyé par l'intermédiaire d'un processeur pour autorisation; si le montant est approuvé, il est automatiquement soumis au vendeur. Le montant est indiqué sur le relevé de carte de crédit du client et doit être remboursé. Une transaction peut également faire référence à un crédit effectué sur le compte de carte de crédit du client, par exemple lorsqu'un bien est retourné pour un remboursement.    
