@@ -74,4 +74,16 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
   
   ![DeleteCustomerPage](https://github.com/projetc22019/saada_projetc2/blob/master/CustomerDeletePage1.png)   
   
+  **Product Main Page** <br/> 
   
+  ![ProductMainPage](https://github.com/projetc22019/saada_projetc2/blob/master/ProductMainPage.png)
+  
+  **Search for a Product ** <br/> 
+
+  ![ProductSearchPage](https://github.com/projetc22019/saada_projetc2/blob/master/ProductSearch.png)
+  
+  **Add a Product Number ** <br/>
+
+   ![AddProductPage](https://github.com/projetc22019/saada_projetc2/blob/master/ProductAdd.png)
+   
+
