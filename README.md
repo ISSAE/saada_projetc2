@@ -45,7 +45,11 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
   3. Cliquez: Clean and Build  
   4. Attendez que les résultats soient terminés avec succès puis déployez l'application sur le glassfish.
   5. Après le déploiement, vous pouvez accéder à l'application via le Web en suivant le lien ci-dessous: 
-        localhost:8080/CnamP2App/
+        localhost:8080/CnamP2App/   
+   
+# Le diagramme de Classe   
+
+ ![diagrammedeclasse](https://github.com/projetc22019/saada_projetc2/blob/master/diagrammeDeClasses.png)   
         
 # L'utilisation de l'application  
 
