@@ -49,7 +49,11 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
    
 # Le diagramme de Classe   
 
- ![diagrammedeclasse](https://github.com/projetc22019/saada_projetc2/blob/master/diagrammeDeClasses.png)   
+ ![diagrammedeclasse](https://github.com/projetc22019/saada_projetc2/blob/master/diagrammeDeClasses.png)  
+ 
+# Le diagramme de Sequences   
+
+ ![diagrammedesequence](https://github.com/projetc22019/saada_projetc2/blob/master/diagrammeDeSequences.png)
         
 # L'utilisation de l'application  
 
