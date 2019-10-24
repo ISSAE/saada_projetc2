@@ -20,8 +20,8 @@ Le logiciel sera développé avec JAVA J2EE. Base de données:MySQL.
      
   3. Exécutez 'create_db.sql' pour créer toutes les tables et tous les procédures. 
   
-  4. Lancez Netbeans.    
-     4.1 Démarrer le serveur Glassfish.
+  4. Lancez Netbeans.       
+     4.1 Démarrer le serveur Glassfish.   
      4.2 Accéder à la console  http://localhost:4848 
      4.2 Créer un pool de connexion:  
        1. Ressources - JDBC - Pools de connexions JDBC    
