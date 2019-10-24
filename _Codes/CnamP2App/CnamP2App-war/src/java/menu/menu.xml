@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<menu-bar>
+    <menu id="customers" label="Customers" icon="icon-UserMenu" >
+        <menu-item id="user-list" label="Customers Profile" icon="icon-user" itemId="customersProfileMenuItem"/>
+        <menu-item id="-" />
+        <!--menu-item id="removed-customer-list" label="Removed Customers" icon="icon-reset" itemId="removedCustomersMenuItem"/>
+        <menu-item id="-" /-->
+    </menu>
+    
+    <menu id="products" label="Products" icon="icon-product">
+        <menu-item id="details" label="Products Profiles" icon="icon-product" itemId="productsProfileMenuItem"/> 
+        <menu-item id="-" />                                                                              
+    </menu>
+    
+    <menu id="cards" label="Cards" icon="icon-card">
+        <menu-item id="cards-details" label="Cards List" icon="icon-product" itemId="cardsProfileMenuItem"/> 
+        <menu-item id="-" />                                                                              
+    </menu>
+    
+    <menu id="transactions" label="Transactions" icon="icon-Transaction" >
+        <menu-item id="trx-list" label="Transactions List" icon="icon-product" itemId="transactionsProfileMenuItem"/>
+        <menu-item id="-" />
+    </menu>	        
+    
+    <menu id="userarea" label="User Area" icon="icon-UserMenu">
+        <menu-item id="changepassword" label="Change Password" icon="icon-change-password" itemId="changePasswordMenuItem"/>                 
+        <menu-item id="closetabs" label="Close Tabs" icon="icon-cross" itemId="closeTabsMenuItem"/>                 
+        <menu-item id="userlogout" label="Logout" icon="icon-logout" itemId="userLogOutMenuItem"/>                                                        
+    </menu> 
+</menu-bar>
